@@ -1,4 +1,4 @@
-[![Open in Leap IDE](https://cdn-assets.cloud.dwavesys.com/shared/latest/badges/leapide.svg)](https://ide.dwavesys.io/#https://github.com/dwave-examples/3d-bin-packing) 
+[![Open in Leap IDE](https://cdn-assets.cloud.dwavesys.com/shared/latest/badges/leapide.svg)](https://ide-coder-dev.dwavesys.io/templates/dwave-example/workspace?param.git_repo=https://github.com/dwave-examples/3d-bin-packing) 
 [![CircleCI](https://dl.circleci.com/status-badge/img/gh/dwave-examples/3d-bin-packing/tree/main.svg?style=shield)](https://dl.circleci.com/status-badge/redirect/gh/dwave-examples/3d-bin-packing/tree/main)
 
 # 3D Bin Packing
